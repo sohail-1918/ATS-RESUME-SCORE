@@ -1,0 +1,12 @@
+supabase-py
+streamlit
+fastapi
+uvicorn
+spacy
+sentence-transformers
+python-magic-bin==0.4.14
+pdfplumber
+python-docx
+PyPDF2
+groq
+rapidfuzz
