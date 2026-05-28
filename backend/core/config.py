@@ -22,7 +22,7 @@ APP_VERSION = "1.0.0"
 APP_DESCRIPTION = "Analyse resumes against job description using NLP + ML"
 
 ALLOWED_ORIGINS = [
-    "https://appapppy-ktwxupi73vqhjzweksze9d.streamlit.app/"
+    "https://ats-resume-score-sohail1918.streamlit.app/"
 ]
 
 # --- File settings ---
