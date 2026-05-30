@@ -6,7 +6,7 @@ import pdfplumber
 from docx import Document
 import PyPDF2
 
-from utils.file_utils import(
+from backend.utils.file_utils import(
     FileParsingError, 
     TextExtractionError, 
     FileUploadError, 

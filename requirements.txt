@@ -2,7 +2,7 @@ supabase==2.30.0
 streamlit==1.57.0
 fastapi==0.136.3
 uvicorn==0.48.0
-sentence-transformers==2.2.2
+sentence-transformers==2.7.0
 spacy==3.7.4
 python-magic
 pdfplumber

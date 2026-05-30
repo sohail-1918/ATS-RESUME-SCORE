@@ -4,9 +4,9 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 from typing import Dict, List, Optional, Tuple
 
-from utils.file_utils import log_warning
-from core.config import SENTENCE_TRANSFORMER_MODEL
-from utils.matching import fuzzy_match_keywords
+from backend.utils.file_utils import log_warning
+from backend.core.config import SENTENCE_TRANSFORMER_MODEL
+from backend.utils.matching import fuzzy_match_keywords
 
 ZIP_CODE_PATTERN = r'\b\d{5}(?:-\d{4})?\b'
 
